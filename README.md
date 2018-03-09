@@ -1,5 +1,6 @@
 JS Coin
 =======
+[![Build Status](https://travis-ci.org/jsweekdays/jscoin.svg?branch=master)](https://travis-ci.org/jsweekdays/jscoin)
 
 Javascript blockchain education project based on
 
