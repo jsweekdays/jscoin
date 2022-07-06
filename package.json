@@ -15,7 +15,7 @@
     "big-integer": "^1.6.26",
     "bootstrap-vue": "^2.0.0-rc.12",
     "js-sha256": "^0.9.0",
-    "moment": "^2.21.0",
+    "moment": "^2.29.4",
     "node-rsa": "^0.4.2",
     "peerjs": "^0.3.14",
     "promise-polyfill": "^7.1.0",
